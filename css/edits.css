@@ -1,0 +1,26 @@
+h1 { text-align: center;
+    font: Helvetica;
+    font-size: 50px ;
+    color: antiquewhite;
+}
+table {
+    border: 1.8px dashed rgb(0, 0, 0);
+    border-collapse:collapse ;
+    margin: 100px 100px 100px 100px;
+}
+body {
+    background-color: black;
+    ;
+}
+th, td {
+    size: 100px;
+    color: azure;
+}
+img {
+    margin: 10px 10px 10px 10px;
+    padding-inline: 5px 5px 5px 5px;
+}
+p {
+    size: 100px;
+    color: azure;
+}
